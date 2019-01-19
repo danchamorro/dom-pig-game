@@ -2,6 +2,8 @@
 
 Pig game built with Vanilla Javascript, HTML and CSS
 
+**URL:** dom-pig-game.netlify.com
+
 ## GAME RULES:
 
 - The game has 2 players, playing in rounds
